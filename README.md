@@ -1,6 +1,6 @@
 # Linux Journey
 
-[Linux Journey](https://linuxjourney.com) is a site dedicated to making learning Linux fun and easy.
+[Linux Journey](https://linuxjourney.com) is a site dedicated to making learning Linux fun.
 
 ## Project Hiatus
 
